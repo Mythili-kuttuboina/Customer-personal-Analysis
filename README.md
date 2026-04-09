@@ -46,10 +46,16 @@ This project focuses on analyzing customer data to understand different customer
 - Observed spending patterns across age groups
 - Analyzed campaign success rates
 - Segmented customers based on behavior
-- https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/Income%20Distribution.jpg?raw=true
-- https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/age.jpg?raw=true
-- https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/barchart%20product_spending.jpg?raw=true
-- https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/heatmap.jpg?raw=true
+- 
+- ![IncomeDistribution](https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/Income%20Distribution.jpg?raw=true)
+- 
+- ![age Distribution](https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/age.jpg?raw=true)
+- 
+- ![product_spending](https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/barchart%20product_spending.jpg?raw=true)
+- 
+- ![purchase heatmap](https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/heatmap.jpg?raw=true)
+- 
+- ![income spending](https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/scatterplot%20income%20vs%20total%20spending.jpg?raw=true)
 - 
 - 
 - 
