@@ -47,6 +47,7 @@ This project focuses on analyzing customer data to understand different customer
 - Analyzed campaign success rates
 - Segmented customers based on behavior
 - https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/Income%20Distribution.jpg?raw=true
+- https://github.com/Mythili-kuttuboina/Customer-personal-Analysis/blob/main/age.jpg?raw=true
 - 
 
 ---
